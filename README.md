@@ -6,3 +6,7 @@ Bitey Package Frameworks
 ```
 sudo bitey install dev choco-frameworks
 ```
+
+### Dependencies
+- PASS
+
