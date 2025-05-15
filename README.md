@@ -1,2 +1,2 @@
-![Logo](/media/choco-frmeworks.png)
+![Logo](/media/choco-frameworks.png)
 # 🍫 Choco Frameworks
